@@ -143,7 +143,7 @@ Algorithm \ref{alg4.1}
 ![image](https://user-images.githubusercontent.com/38340783/114514559-00483580-9c6e-11eb-8742-3203373385b3.png)
 
 
-**（6）文字高亮**
+**（6）文字高亮更改颜色**
 ```
 %引用包
 \usepackage{url}           %该句在含url时自动转化网址格式，可注释
@@ -176,6 +176,15 @@ Algorithm \ref{alg4.1}
 \cite{xxx}    %xxx为{与第一个,中间内容
 ```
 ![image](https://user-images.githubusercontent.com/38340783/114519916-77cc9380-9c73-11eb-85e0-303d79cd4221.png)
+
+
+
+**（9）学术英文参考**
+```
+https://www.phrasebank.manchester.ac.uk
+曼彻斯特大学学术短语银行http://www.phrasebank.manchester.ac.uk/汇集了所有论文需要用到的转接语句引导语句总结语句
+
+```
 
 
 
