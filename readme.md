@@ -185,6 +185,7 @@ https://www.phrasebank.manchester.ac.uk
 曼彻斯特大学学术短语银行http://www.phrasebank.manchester.ac.uk/汇集了所有论文需要用到的转接语句引导语句总结语句
 
 ```
+![image](https://github.com/DemCSci/LATEX_overleaf_template/assets/108406467/3476de4c-3ec8-4274-bdae-739cc756b9d6)
 
 
 
